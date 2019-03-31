@@ -1,0 +1,5 @@
+assign-eip
+*.swo
+*.swp
+go.sum
+vendor
